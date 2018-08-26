@@ -1,4 +1,4 @@
-package gitmoduleunversioned
+package gomoduleunversioned
 
 import "fmt"
 
